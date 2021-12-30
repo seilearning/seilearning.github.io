@@ -1,8 +1,8 @@
 /**
 * Template Name: Mentor - v4.7.0
-* Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
+* Template URL: https://tejveersinghgoraya.com//mentor-free-education-bootstrap-theme/
 * Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* License: https://tejveersinghgoraya.com//license/
 */
 (function() {
   "use strict";
